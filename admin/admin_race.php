@@ -15,5 +15,5 @@
 //*************************************
 require("admin_header.php");
 $smarty->display('admin_race.tpl');
-
+//this is svn test.
 ?>
