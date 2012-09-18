@@ -13,6 +13,9 @@
 *****************************************/
 // PHP Administrator functionality Using MySQL Smarty and Pdo
 //*************************************
+
+//this is test git hub
+
 require("admin_header.php");
 $smarty->display('admin_courses.tpl');
 
